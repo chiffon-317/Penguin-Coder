@@ -232,9 +232,9 @@ Arch（え……っと……？）
 
 
 
-？？「sudo pacman -Syデータベース同期」
+？？「sudo pacman -Sy」
 
-　 「sudo pacman -S noto-fonts-cjk中国語、日本語、韓国語フォントをインストール」
+　 「sudo pacman -S noto-fonts-cjk」
 
 
 
@@ -1457,7 +1457,7 @@ Konqi「二人とも！離れて！」
 
 
 
-Kali「侵入成功。 sudo rm -rf /*システム抹消」
+Kali「侵入成功。 sudo rm -rf /*」
 
 
 
